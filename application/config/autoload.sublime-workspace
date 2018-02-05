@@ -1,0 +1,569 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"apply",
+				"applyFeedback"
+			],
+			[
+				"appli",
+				"application_id"
+			],
+			[
+				"comp",
+				"company_1"
+			],
+			[
+				"resou",
+				"resources_needed"
+			],
+			[
+				"com",
+				"company_1"
+			],
+			[
+				"prof",
+				"professional_course"
+			],
+			[
+				"aca",
+				"academic_level"
+			],
+			[
+				"visib",
+				"visible_to"
+			],
+			[
+				"staff",
+				"staff_id"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"note",
+				"note_category"
+			],
+			[
+				"Po",
+				"Post-graduate"
+			],
+			[
+				"f",
+				"font-awesome"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pu",
+				"pull-left"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"sent",
+				"sent_to_cs"
+			],
+			[
+				"main",
+				"main-content"
+			],
+			[
+				"not",
+				"not_sent_to_cs"
+			],
+			[
+				"bill_",
+				"bill_of_landing_no"
+			],
+			[
+				"trac",
+				"track_cons_data"
+			],
+			[
+				"tab",
+				"table-responsive"
+			],
+			[
+				"awb",
+				"awb_details_charges"
+			],
+			[
+				"doc",
+				"doc_name"
+			],
+			[
+				"cons",
+				"cons_bill_of_landing"
+			],
+			[
+				"ops",
+				"ops_m"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"doc_i",
+				"doc_id"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"col",
+				"col-xs-4"
+			],
+			[
+				"cus",
+				"cust-col"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"r",
+				"ruby-base"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"send",
+				"send_to_accounts"
+			],
+			[
+				"cons_",
+				"cons_id"
+			],
+			[
+				"invoi",
+				"invoice_id"
+			],
+			[
+				"inv",
+				"inv_added"
+			],
+			[
+				"cons_ac",
+				"cons_acc_info_amount"
+			],
+			[
+				"cons_acc",
+				"cons_acc_info"
+			],
+			[
+				"service",
+				"service_id"
+			],
+			[
+				"serv",
+				"service_min_rate"
+			],
+			[
+				"servi",
+				"service_max_rate"
+			],
+			[
+				"con",
+				"cons_acc_info"
+			],
+			[
+				"acc",
+				"accounts_m"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"consi",
+				"consignment"
+			],
+			[
+				"accounts",
+				"accounts_m"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"fom",
+				"form-control"
+			],
+			[
+				"cs",
+				"cs_m"
+			],
+			[
+				"manage",
+				"manageSelectedCons"
+			],
+			[
+				"cos",
+				"consignments"
+			],
+			[
+				"cust",
+				"cust_id"
+			],
+			[
+				"client",
+				"clients"
+			],
+			[
+				"clie",
+				"client_name"
+			],
+			[
+				"accou",
+				"accounts_m"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"array_s",
+				"array_sum"
+			],
+			[
+				"tra",
+				"track_cons_data"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"charge",
+				"charges_amnt"
+			],
+			[
+				"chr",
+				"charge_id"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"tr",
+				"track_cons_id"
+			],
+			[
+				"cons_n",
+				"cons_notes_array"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"expe",
+				"expenses"
+			],
+			[
+				"exp",
+				"expenses"
+			],
+			[
+				"open",
+				"openingBal"
+			],
+			[
+				"ex",
+				"expenseReport"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"add",
+				"addExpense"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sikuk/Documents/CHARTS/Line Chart.html",
+		"/C/xampp/htdocs/smif/ci/application/config/config.php",
+		"/C/xampp/htdocs/smif/ci/application/views/header.html",
+		"/C/xampp/htdocs/smif/ci/application/views/footer.html",
+		"/C/xampp/htdocs/smif/ci/application/views/body.php",
+		"/C/xampp/htdocs/smif/index.html",
+		"/C/xampp/htdocs/wec/application/controllers/cs.php",
+		"/C/xampp/htdocs/smif/ci/New folder/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/smif/ci/New folder/application/config/routes.php",
+		"/C/xampp/htdocs/smif/ci/New folder/application/views/body.php",
+		"/C/xampp/htdocs/smif/ci/New folder/application/views/header.html",
+		"/C/xampp/htdocs/smif/ci/New folder/application/views/footer.html",
+		"/C/xampp/htdocs/smif/ci/New folder/application/views/index.html",
+		"/C/xampp/htdocs/smif/ci/New folder/application/controllers/smif.php",
+		"/C/xampp/htdocs/wec/application/models/cs_m.php",
+		"/C/xampp/htdocs/wec/application/views/ops/manageSelectedCons.php",
+		"/C/Users/sikuk/Downloads/Compressed/New folder/Registration_form/js/Registration_form.js",
+		"/C/xampp/htdocs/wec/application/models/ops_m.php",
+		"/C/xampp/htdocs/wec/application/controllers/Ops.php",
+		"/C/xampp/htdocs/wec/application/views/ops/notes.php",
+		"/C/xampp/htdocs/wec/application/views/footer.php",
+		"/C/xampp/htdocs/smif/ci/New folder/application/views/index.php",
+		"/C/xampp/htdocs/smif/ci/header.html",
+		"/C/xampp/htdocs/smif/ci/index.html",
+		"/C/xampp/htdocs/smif/ci/footer.html",
+		"/C/xampp/htdocs/wec/application/views/ops/trackConsignment.php",
+		"/C/xampp/htdocs/wec/application/views/footer-editable-table.php",
+		"/C/xampp/htdocs/wec/application/views/ops/manage-clients.php",
+		"/C/xampp/htdocs/wec/application/views/extras-timeline.html",
+		"/C/xampp/htdocs/wec/application/views/ops/bg.jpg",
+		"/C/xampp/htdocs/wec/application/views/ops/left-nav.php",
+		"/C/xampp/htdocs/wec/application/views/cs/left-nav.php",
+		"/C/xampp/htdocs/wec/application/views/cs/trackConsignmentNew.php",
+		"/C/xampp/htdocs/wec/application/controllers/verify_login.php",
+		"/C/xampp/htdocs/wec/application/controllers/login.php",
+		"/C/xampp/htdocs/wec/application/views/hello.html",
+		"/C/xampp/htdocs/wec/application/views/cs/manageConsignment.php",
+		"/C/xampp/htdocs/wec/application/views/upload_success.php",
+		"/C/xampp/htdocs/wec/application/views/upload.php",
+		"/C/xampp/htdocs/wec/application/controllers/upload.php",
+		"/C/xampp/htdocs/wec/application/config/autoload.php",
+		"/C/xampp/htdocs/wec/application/views/cs/addConsigment.php",
+		"/C/xampp/htdocs/wec/application/views/ops/manageConsignment.php",
+		"/C/xampp/htdocs/wec/application/models/accounts_m.php",
+		"/C/xampp/htdocs/wec/application/views/accounts/addInvoiceNewUI.php",
+		"/C/xampp/htdocs/wec/application/controllers/accounts.php",
+		"/C/xampp/htdocs/wec/application/controllers/start.php",
+		"/C/xampp/htdocs/willice/application/models/Sale.php",
+		"/C/xampp/htdocs/willice/application/models/Item.php",
+		"/C/xampp/htdocs/willice/application/helpers/table_helper.php",
+		"/C/xampp/htdocs/willice/application/views/items/form.php",
+		"/C/xampp/htdocs/willice/application/controllers/Items.php",
+		"/C/xampp/htdocs/willice/application/models/Inventory.php",
+		"/C/xampp/htdocs/willice/application/libraries/Item_lib.php",
+		"/C/xampp/htdocs/willice/application/helpers/locale_helper.php",
+		"/C/xampp/htdocs/willice/application/language/en/items_lang.php",
+		"/C/xampp/htdocs/willice/application/views/items/form_inventory.php",
+		"/C/xampp/htdocs/willice/application/views/items/manage.php",
+		"/C/xampp/htdocs/willice/application/controllers/expenses.php",
+		"/C/xampp/htdocs/willice/application/views/expenses/home.php",
+		"/C/xampp/htdocs/willice/application/models/Expense.php",
+		"/C/xampp/htdocs/willice/application/language/en/config_lang.php",
+		"/C/xampp/htdocs/willice/application/language/en/employees_lang.php",
+		"/C/xampp/htdocs/willice/application/controllers/Sales.php",
+		"/C/xampp/htdocs/willice/application/language/en/module_lang.php",
+		"/C/xampp/htdocs/willice/application/models/Employee.php",
+		"/C/xampp/htdocs/willice/application/controllers/Customers.php",
+		"/C/xampp/htdocs/willice/application/index.html",
+		"/C/xampp/htdocs/willice/application/.htaccess",
+		"/C/xampp/htdocs/willice/sales_items.JPG",
+		"/C/xampp/htdocs/willice/sales.JPG",
+		"/C/xampp/htdocs/willice/POS Requirements.docx",
+		"/C/xampp/htdocs/willice/Notes/Work done.rtf",
+		"/C/xampp/htdocs/willice/Notes/selecting and updating points.sql",
+		"/C/xampp/htdocs/willice/application/views/home.php",
+		"/C/xampp/htdocs/willice/application/views/partial/header.php",
+		"/C/xampp/htdocs/willice/application/language/ar-EG/module_lang.php",
+		"/C/xampp/htdocs/willice/vendor/codeigniter/framework/application/language/english/index.html",
+		"/C/xampp/htdocs/willice/vendor/codeigniter/framework/system/helpers/language_helper.php",
+		"/C/xampp/htdocs/willice/application/views/partial/lang_lines.php",
+		"/C/xampp/htdocs/willice/new/application/core/MY_Lang.php",
+		"/C/xampp/htdocs/willice/vendor/codeigniter/framework/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/willice/application/controllers/Home.php",
+		"/C/xampp/htdocs/willice/application/controllers/Secure_Controller.php",
+		"/C/xampp/htdocs/willice/application/models/Module.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "autoload.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
